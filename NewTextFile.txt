@@ -1,0 +1,1 @@
+When wanting to add a text file to git, need to update text file by going format -> make plain text 
